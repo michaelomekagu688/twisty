@@ -18,17 +18,16 @@ const Navbar = () => {
         </ul>
         <div className='end'>
             <div className='input-bar'>
-              <input type='text' className='search-input' placeholder='Enter your search request...' />
+              <input type='text' className='search-input' alt='bio-img' placeholder='Enter your search request' />
               <SearchOutlined className='search-out'/>
             </div>
             <SettingsOutlined className='outer-icons' />
             <NotificationsNoneOutlined className='outer-icons' />
             <div className='bio'>
-
+              <Image width={25} className='bioss' height={25} src={'/women1.jpg'} />
             </div>
         </div>
     </div>
   )
 }
-
 export default Navbar
