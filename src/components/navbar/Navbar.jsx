@@ -24,7 +24,7 @@ const Navbar = () => {
             <SettingsOutlined className='outer-icons' />
             <NotificationsNoneOutlined className='outer-icons' />
             <div className='bio'>
-              <Image width={25} className='bioss' height={25} src={'/women1.jpg'} />
+              <Image width={25} className='bioss' alt='nav-img' height={25} src={'/women1.jpg'} />
             </div>
         </div>
     </div>
