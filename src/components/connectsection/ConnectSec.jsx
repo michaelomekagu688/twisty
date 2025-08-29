@@ -52,7 +52,7 @@ const ConnectSec = () => {
         </div>
         <div className='right-connect'>
             <div className='unlock-div'> Unlock Premium Features </div>
-            <div className='access-div'> get access to exclusive benefits and expand your freelancing  oppurtunities   </div>
+            <div className='access-div'> Get access to exclusive benefits and expand your freelancing  oppurtunities   </div>
             <div className='but-bottom'> 
                 <div className='upgrade-text'> Upgrade Now </div>
                 <ChevronRightOutlined className='chevron' />
